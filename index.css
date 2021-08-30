@@ -1,0 +1,21 @@
+.clock {
+    background:rgb(44, 44, 44);
+    border: 5px dotted rgb(28, 196, 196);
+    border-radius: 50%;
+    height: 8em;
+    width: 8em;
+    color:rgb(11, 182, 235);
+    font-size: 25px;
+    margin: 15px;
+    margin-left: 44%;
+    padding: 15px;
+    line-height: 180px;
+    text-align: center; 
+	font-family: Courier;
+}
+h1 {
+color: teal;
+font-size: 35px;
+text-align: center; 
+
+}
